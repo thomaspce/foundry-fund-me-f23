@@ -157,6 +157,7 @@ forge fmt
 
 # Thank you!
 
-Thank you to Patrick Collins for making this course and allowing me to learn a lot 
+Thank you to Patrick Collins for making this course and allowing me to learn all of this. 
 
+His twitter:
 [![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
