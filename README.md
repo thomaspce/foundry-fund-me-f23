@@ -1,6 +1,6 @@
 # Foundry Fund Me
 
-This is a section of the Cyfrin Solidity Course for Patrick collins.
+This is a section of the Cyfrin Solidity Course from Patrick collins (yt link bellow).
 
 *[Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)*
 
